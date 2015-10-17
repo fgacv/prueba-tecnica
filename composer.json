@@ -1,0 +1,12 @@
+{
+    "name": "root/octano",
+    "require": {
+        "jv2222/ezsql_version": "^2.17"
+    },
+    "authors": [
+        {
+            "name": "Felipe Gac",
+            "email": "felipe@fgacv.net"
+        }
+    ]
+}
